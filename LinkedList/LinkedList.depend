@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510878948 source:d:\users\starvinmarvin\desktop\asteroidsarecool\linkedlist\main.cpp
+	<iostream>
+	<vector>
+	<unordered_set>
+
